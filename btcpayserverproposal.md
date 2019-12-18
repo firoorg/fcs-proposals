@@ -13,10 +13,6 @@ milestones:
     funds: 40% (2683.2 XZC)
     done:
     status: unfinished
-  - name:
-    funds:
-    done:
-    status: unfinished
   - name: Sprint 3 - Finalizing and Testing BTCPayserver for Zcoin
     funds: 20% (1341.6 XZC)
     done:
