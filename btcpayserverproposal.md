@@ -3,14 +3,14 @@ layout: fr
 title: Integrating XZC to BTCPayserver
 author: The Arcadia Group
 date: December 18, 2019
-amount: 
+amount: 6708
 milestones:
   - name: Sprint 1 - Initial Versions Integrating Zcoin & QA/Testing
-    funds:
+    funds: 40% (2683.2 XZC)
     done:
     status: unfinished
   - name: Sprint 2 - Integrating Zcoin and Sigma Spend Reception & QA/Testing
-    funds:
+    funds: 40% (2683.2 XZC)
     done:
     status: unfinished
   - name:
@@ -18,16 +18,10 @@ milestones:
     done:
     status: unfinished
   - name: Sprint 3 - Finalizing and Testing BTCPayserver for Zcoin
-    funds:
-    done:
-    status: unfinished
-  - name: Sprint 3.5 - Final Testing and Delivery
-    funds:
+    funds: 20% (1341.6 XZC)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
   - date:
     amount:
   - date:
@@ -50,3 +44,10 @@ BTCPayserver has a great deal of functionality that is not easily supportable on
 * Point of Sale
 * Payment Buttons
 
+The estimated timeframe on this project would be approximately six calendar weeks, which is 3 calendar (2 week) sprints.
+
+The team breakdown for this engagement would be:
+
+* 1 Full Time Developer 
+* 1 Partial QA Tester
+* 1 Project Manager
