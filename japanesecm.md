@@ -10,8 +10,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date: January 31, 2020
-    amount: 60
+  - date:
+    amount:
 ---
 Our Japanese community in Telegram https://t.me/zcoin_jp is one of the best with active engaged discussion especially to our technical developments.
 This is to fund one month of community management and translation of our articles. 
