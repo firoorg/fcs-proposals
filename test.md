@@ -1,5 +1,5 @@
 ---
-layout: done
+layout: cp
 title: Raise 10 XZC for ZCS
 author: diego "rehrar" Salazar
 date: December 18, 2019
