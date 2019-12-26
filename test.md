@@ -7,11 +7,11 @@ amount: 10
 milestones:
   - name: Payout to diego
     funds: 5
-    done:
+    done: December 26, 2019
     status: finished
   - name: Payout to other guy
     funds: 5
-    done:
+    done: December 26, 2019
     status: finished
 payouts:
   - date: December 26, 2019
