@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Japanese Community Manager
 author: Reuben Yap
 date: December 20, 2019
