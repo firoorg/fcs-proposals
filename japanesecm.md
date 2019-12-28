@@ -20,4 +20,5 @@ payouts:
     amount:
 ---
 Our Japanese community in Telegram https://t.me/zcoin_jp is one of the best with active engaged discussion especially to our technical developments.
-This is to fund one month of community management and translation of our articles. 
+This is to fund one month of community management and translation of our articles.
+@Shujuij will be leading this and will be the CM of the group.
