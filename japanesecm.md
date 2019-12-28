@@ -9,7 +9,7 @@ milestones:
     funds: 30
     done:
     status: finished
-   - name: End
+  - name: End
     funds: 30
     done:
     status: unfinished
