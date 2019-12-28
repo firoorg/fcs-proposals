@@ -7,7 +7,7 @@ amount: 60
 milestones:
   - name: Commencement
     funds: 30
-    done:
+    done: December 29, 2019
     status: finished
   - name: End
     funds: 30
