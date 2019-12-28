@@ -5,11 +5,17 @@ author: Reuben Yap
 date: December 20, 2019
 amount: 60
 milestones:
-  - name: January 2020
-    funds: 60
+  - name: Commencement
+    funds: 30
+    done:
+    status: finished
+   - name: End
+    funds: 30
     done:
     status: unfinished
 payouts:
+  - date: December 29, 2019
+    amount: 30
   - date:
     amount:
 ---
