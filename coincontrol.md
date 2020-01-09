@@ -22,6 +22,8 @@ payouts:
     amount:
   - date:
     amount:
+  - date:
+    amount:
 ---
 #Proposal
 Our plan is to review the current implementation of coin control on QT, and replicate it in the Client, while having our UI specialist work in tandem to create a series of sexy frontend elements for the client version of coin control.
