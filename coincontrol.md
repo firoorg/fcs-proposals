@@ -5,16 +5,16 @@ author: The Arcadia Group
 date: December 30, 2019
 amount: 1893.33
 milestones:
-  - name: Initial: Integrating Zcoin-style Coin Control into the Zcoin GUI Client 
-    funds: 45% (852 XZC)
+  - name: Initial: Integrating Zcoin-style Coin Control into the Zcoin GUI Client 45%
+    funds: 852
     done:
     status: unfinished
-  - name: Testing Period
-    funds: 30% (568‬ XZC)
+  - name: Testing Period 30%
+    funds: 568‬
     done:
     status: unfinished
-  - name: Acceptance and Testing
-    funds: 25% (473.33‬ XZC)
+  - name: Acceptance and Testing 25%
+    funds: 473.33‬
     done:
     status: unfinished
 payouts:
