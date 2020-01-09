@@ -25,7 +25,7 @@ payouts:
   - date:
     amount:
 ---
-Proposal
+**Proposal**
 
 Our plan is to review the current implementation of coin control on QT, and replicate it in the Client, while having our UI specialist work in tandem to create a series of sexy frontend elements for the client version of coin control.
 
@@ -37,6 +37,6 @@ The estimated timeframe on this project would be approximately two calendar week
 
 The team breakdown for this engagement would be:
 
-1 Full Time Developer 
-1 UI/UX Specialist (.5 Sprint)
-1 Project Manager
+- 1 Full Time Developer 
+- 1 UI/UX Specialist (.5 Sprint)
+- 1 Project Manager
