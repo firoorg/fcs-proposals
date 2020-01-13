@@ -2,7 +2,7 @@
 layout: fr
 title: Implementing Coin Control onto the Zcoin GUI Client
 author: The Arcadia Group
-date: December 30, 2019
+date: January 13, 2020
 amount: 126
 milestones:
   - name: Hosting Costs 
