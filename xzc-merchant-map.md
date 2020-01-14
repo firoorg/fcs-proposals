@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Implementing Coin Control onto the Zcoin GUI Client
+title: XZC Merchant Map
 author: The Arcadia Group
 date: January 13, 2020
 amount: 126
