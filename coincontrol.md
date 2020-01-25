@@ -5,10 +5,10 @@ author: The Arcadia Group
 date: December 30, 2019
 amount: 1615.1
 milestones:
-  - name: Initial: Integrating Zcoin-style Coin Control into the Zcoin GUI Client 
-    funds: 45% (852 XZC)
-    done:
-    status: unfinished
+  - name: Integrating Zcoin-style Coin Control into the Zcoin GUI Client
+    funds: 852
+    done: 1/22/2020
+    status: complete
   - name: Testing Period
     funds: 30% (416‬ XZC)
     done:
@@ -22,8 +22,11 @@ payouts:
     amount:
   - date:
     amount:
+  - date:
+    amount:
 ---
-#Proposal
+**Proposal**
+
 Our plan is to review the current implementation of coin control on QT, and replicate it in the Client, while having our UI specialist work in tandem to create a series of sexy frontend elements for the client version of coin control.
 
 The majority of time will be spent porting functionality from coin control in QT to the Vue JS Client 
@@ -34,6 +37,6 @@ The estimated timeframe on this project would be approximately two calendar week
 
 The team breakdown for this engagement would be:
 
-* 1 Full Time Developer 
-* 1 UI/UX Specialist (.5 Sprint)
-* 1 Project Manager
+- 1 Full Time Developer 
+- 1 UI/UX Specialist (.5 Sprint)
+- 1 Project Manager
