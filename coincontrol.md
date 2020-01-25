@@ -3,18 +3,18 @@ layout: fr
 title: Implementing Coin Control onto the Zcoin GUI Client
 author: The Arcadia Group
 date: December 30, 2019
-amount: 1893.33
+amount: 1615.1
 milestones:
   - name: Initial: Integrating Zcoin-style Coin Control into the Zcoin GUI Client 
     funds: 45% (852 XZC)
     done:
     status: unfinished
   - name: Testing Period
-    funds: 30% (568‬ XZC)
+    funds: 30% (416‬ XZC)
     done:
     status: unfinished
   - name: Acceptance and Testing
-    funds: 25% (473.33‬ XZC)
+    funds: 25% (347.1‬ XZC)
     done:
     status: unfinished
 payouts:
