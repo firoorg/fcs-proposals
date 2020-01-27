@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: XZC Merchant Map
 author: The Arcadia Group
 date: January 13, 2020
