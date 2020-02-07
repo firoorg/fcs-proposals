@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Receiver Address Privacy Video
 author: Reuben Yap
 date: December 25, 2019
