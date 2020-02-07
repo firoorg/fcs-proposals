@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Japanese Community Manager
 author: Reuben Yap
 date: December 20, 2019
@@ -14,7 +14,7 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date: December 29, 2019
+  - date: February 2, 2020
     amount: 30
   - date:
     amount:
