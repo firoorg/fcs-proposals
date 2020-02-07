@@ -3,14 +3,14 @@ layout: fr
 title: Receiver Address Privacy Video
 author: Reuben Yap
 date: December 25, 2019
-amount: 350
+amount: 284.07
 milestones:
   - name: Commencement
-    funds: 175
+    funds: 142.035
     done:
     status: unfinished
   - name: Completion
-    funds: 175
+    funds: 142.035
     done:
     status: unfinished
 payouts:
