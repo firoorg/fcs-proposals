@@ -8,15 +8,15 @@ milestones:
   - name: Wrote the script for the video
     funds: 0
     done:
-    status: unfinished
+    status: complete
   - name: Edit together motion graphic assets in after effects
     funds: 0
     done:
-    status: unfinished
+    status: complete
   - name: Hire voice actor and obtain music
     funds: 0
     done:
-    status: unfinished
+    status: complete
 payouts:
   - date:
     amount:
