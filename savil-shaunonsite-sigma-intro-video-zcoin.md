@@ -3,18 +3,18 @@ layout: cp
 title: Creating a motion graphics video introducing the Sigma Protocol of Zcoin with the help of ShaunonSite
 author: Savil
 date: January 24, 2020
-amount: 0
+amount: 3
 milestones:
   - name: Wrote the script for the video
-    funds: 0
+    funds: 1
     done:
     status: finished
   - name: Edit together motion graphic assets in after effects
-    funds: 0
+    funds: 1
     done:
     status: finished
   - name: Hire voice actor and obtain music
-    funds: 0
+    funds: 1
     done:
     status: finished
 payouts:
