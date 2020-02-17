@@ -36,3 +36,5 @@ The team for this project is:
 
 Timeframe:
 This project is expected to be completed in 2 weeks, but should account for time frame after completion to get merged into master. 
+
+<iframe src="https://atlas.mindmup.com/hysmagus/zcoin_mnemonic_user_flow/index.html"></iframe>
