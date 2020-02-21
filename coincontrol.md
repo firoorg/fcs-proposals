@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Implementing Coin Control onto the Zcoin GUI Client
 author: The Arcadia Group
 date: December 30, 2019
