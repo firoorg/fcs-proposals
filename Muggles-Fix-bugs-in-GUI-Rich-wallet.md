@@ -30,9 +30,9 @@ payouts:
 
 After the introduction of coin control, there only a few bugs that are holding the Zcoin’s Rich GUI back from becoming the de facto Core wallet for Zcoin.
 
-Having an easy to use and good looking core wallet has long been a dream of the Zcoin team and community. Lets sort these bugs out and make it a reality!
+Having an easy to use and good looking core wallet has long been a dream of the Zcoin team and community. Let's sort these bugs out and make it a reality!
 
-Bug fixing can be tricky to put a price on because because of how much the complexity of each issue can vary. I’m asking for 40 XZC for squashing each bug, bringing the total for the three bugs to 120 XZC. 40 XZC will be released after each milestone (a bug succesfully fixed and tested)
+Bug fixing can be tricky to put a price on because of how much the complexity of each issue can vary. I’m asking for 40 XZC for squashing each bug, bringing the total for the three bugs to 120 XZC. 40 XZC will be released after each milestone (a bug successfully fixed and tested)
 
 The issues that will be sorted:
 
