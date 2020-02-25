@@ -6,15 +6,15 @@ date: Febuary 24, 2019
 amount: 120
 milestones:
   - name: Choose Mints Automatically isn't clear #120
-    funds: 33% (40 XZC)
+    funds: 40
     done:
     status: unfinished
   - name: Calculation of automated mints is incorrect #121
-    funds: 33% (40 XZC)
+    funds: 40
     done:
     status: unfinished
   - name: Client asks for datadir again after upgrading from 1.0.3 to 1.0.4 #122
-    funds: 33% (40 XZC)
+    funds: 40
     done:
     status: unfinished
 payouts:
