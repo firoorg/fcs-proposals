@@ -1,20 +1,20 @@
 ---
 layout: fr
-title: Fix bugs in the GUI Rich Wallet
-author: Michael Bernhardt "Muggles"
+title: "Fix bugs in the GUI Rich Wallet"
+author: "Michael Bernhardt "Muggles""
 date: Febuary 24, 2019
 amount: 120
 milestones:
-  - name: Choose Mints Automatically isn't clear #120
-    funds: 40
+  - name: Choose Mints Automatically isn't clear Issue 120
+    funds: 33% (40 XZC)
     done:
     status: unfinished
-  - name: Calculation of automated mints is incorrect #121
-    funds: 40
+  - name: Calculation of automated mints is incorrect Issue 121
+    funds: 33% (40 XZC)
     done:
     status: unfinished
-  - name: Client asks for datadir again after upgrading from 1.0.3 to 1.0.4 #122
-    funds: 40
+  - name: Client asks for datadir again after upgrading from 1.0.3 to 1.0.4 Issue 122
+    funds: 33% (40 XZC)
     done:
     status: unfinished
 payouts:
