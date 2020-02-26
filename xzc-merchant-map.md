@@ -7,14 +7,14 @@ amount: 126
 milestones:
   - name: Hosting Costs 
     funds: 9% (11.4 XZC)
-    done:
-    status: unfinished
+    done: February 10, 2020
+    status: complete
   - name: After 6 Months of Operation (Maintainence and Support)
     funds: 91% (114.6‬ XZC)
-    done:
+    done: 
     status: unfinished
 payouts:
-  - date:
+  - date: 
     amount:
   - date:
     amount:
