@@ -1,19 +1,19 @@
 ---
 layout: fr
 title: Fix bugs in the GUI Rich Wallet
-author: Michael Bernhardt Muggles
+author: Michael Bernhardt "Muggles"
 date: February 24, 2019
 amount: 120
 milestones:
-  - name: Choose Mints Automatically isn't clear Issue 120
+  - name: Choose Mints Automatically isn't clear #120
     funds: 33% (40 XZC)
     done:
     status: unfinished
-  - name: Calculation of automated mints is incorrect Issue 121
+  - name: Calculation of automated mints is incorrect #121
     funds: 33% (40 XZC)
     done:
     status: unfinished
-  - name: Client asks for datadir again after upgrading from 1.0.3 to 1.0.4 Issue 122
+  - name: Client asks for datadir again after upgrading from 1.0.3 to 1.0.4 #122
     funds: 33% (40 XZC)
     done:
     status: unfinished
@@ -37,7 +37,9 @@ Bug fixing can be tricky to put a price on because of how much the complexity of
 The issues that will be sorted:
 
 https://github.com/zcoinofficial/zcoin-client/issues/120
+
 https://github.com/zcoinofficial/zcoin-client/issues/121
+
 https://github.com/zcoinofficial/zcoin-client/issues/122
 
 Timeframe: This project is expected to be completed in 2 weeks
