@@ -2,7 +2,7 @@
 layout: fr
 title: Fix bugs in the GUI Rich Wallet
 author: Michael Bernhardt Muggles
-date: Febuary 24, 2019
+date: February 24, 2019
 amount: 120
 milestones:
   - name: Choose Mints Automatically isn't clear Issue 120
