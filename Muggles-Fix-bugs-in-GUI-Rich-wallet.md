@@ -26,7 +26,7 @@ payouts:
     amount:
 ---
 
-#Proposal
+**Proposal**
 
 After the introduction of coin control, there only a few bugs that are holding the Zcoin’s Rich GUI back from becoming the de facto Core wallet for Zcoin.
 
