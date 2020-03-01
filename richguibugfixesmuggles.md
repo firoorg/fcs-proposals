@@ -1,7 +1,7 @@
 ---
 layout: fr
 title: Fix bugs in the GUI rich wallet
-author: Michael Bernhard aka Muggles
+author: Michael Bernhard "Muggles"
 date: February 24, 2019
 amount: 120
 milestones:
