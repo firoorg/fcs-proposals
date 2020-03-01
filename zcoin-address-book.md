@@ -10,7 +10,7 @@ milestones:
     done: 
     status:
   - name: Testable Binary
-    funds:237.68 XZC
+    funds: 237.68 XZC
     done: 
     status: 
 payouts:
