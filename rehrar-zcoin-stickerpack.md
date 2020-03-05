@@ -1,7 +1,7 @@
 ---
 layout: fr
 title: Zcoin Sticker Pack for Telegram and Signal
-author: "Diego 'rehrar' Salazar
+author: "Diego 'rehrar' Salazar"
 date: February 17, 2020
 amount: 87.5
 milestones:
