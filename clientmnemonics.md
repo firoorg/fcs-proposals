@@ -1,27 +1,17 @@
 ---
-layout: fr
+layout: cp
 title: Zcoin Mnemonics Generation and Recovery for Zcoin Client
 author: The Arcadia Group
 date: January 30, 2020
-amount: 638.4
+amount: 338.43
 milestones:
-  - name: Initial Start of Zcoin Mnemonics Project
-    funds: 319.2 (50%)
-    done:
-    status: unfinished
-  - name: Release of Testable Binaries
-    funds: 
-    done:
-    status: unfinished
-  - name: Completion and PR of Final Version
-    funds: 319.2 (50%)
-    done:
-    status: unfinished
+  - name: Zcoin Mnemonics Project
+    funds: 338.43
+    done: March 18, 2020
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: March 18, 2020
+    amount: 338.43
 ---
 This proposal is for the integration of Zcoin Mnemonics generation and recovery into the rich client wallet. This covers the following objects: 
 * My Mnemonic Recovery Phrase, revealed during initial installation (with 'confirm your recovery phrase' functionality)
