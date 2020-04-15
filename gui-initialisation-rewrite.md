@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Proposal to Rewrite Initialisation Logic in the Zcoin GUI Client
 author: sproxet
 date: March 7, 2020
