@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Zcoin Sticker Pack for Telegram and Signal
 author: "Diego 'rehrar' Salazar"
 date: February 17, 2020
