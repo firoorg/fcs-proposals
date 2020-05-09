@@ -1,23 +1,23 @@
 ---
-layout: wip
+layout: cp
 title: Proposal to Rewrite Initialisation Logic in the Zcoin GUI Client
 author: sproxet
 date: March 7, 2020
 amount: 890
 milestones:
   - name: Begin Work
-    funds: 45.5% (405 XZC)
-    done:
-    status: unfinished
+    funds: 405
+    done: March 17, 2020
+    status: finished
   - name: Finish Work
-    funds: 54.5% (485 XZC)
-    done:
-    status: unfinished
+    funds: 485
+    done: May 9, 2020
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: March 17, 2020
+    amount: 405
+  - date: May 9, 2020
+    amount: 485
 ---
 
 # Proposal to Rewrite Initialisation Logic in the Zcoin GUI Client
