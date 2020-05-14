@@ -1,17 +1,15 @@
 ---
 layout: fr
-title: Flare Wallet Mobile & Desktop Integration + Non-Custodial Masternode Management
+title: Flare Wallet Mobile and Desktop Integration and Non-Custodial Masternode Management
 author: The Flare Wallet Team
-date: May 1st, 2020
-amount: 1750 XZC
+date: May 1, 2020
+amount: 1750
 milestones:
   - name: Full Integration
-    funds: 1750 XZC
+    funds: 1750
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
   - date:
     amount:
 ---
