@@ -35,25 +35,25 @@ Our Key advantages are:
 
 We are growing rapidly thus you can expect rapid feature grow within the next years
 
-It’s a core Product not a Side Project so it won’t be abandoned anytime soon
-Audit is possible: You can get a list of all Accounts and a confirmation that the coins are still there any time
-Support for unlimited Users and Installations
-Extensive Documentation at our Wiki ( https://wiki.coinkit.de ) and with !tiphelp within CoinKit DMs on each social platform
+- It’s a core Product not a Side Project so it won’t be abandoned anytime soon
+- Audit is possible: You can get a list of all Accounts and a confirmation that the coins are still there any time
+- Support for unlimited Users and Installations
+- Extensive Documentation at our Wiki ( https://wiki.coinkit.de ) and with !tiphelp within CoinKit DMs on each social platform
 
 Tipbot Feature summary:
 
-Integrated Platforms today: Slack, Discord, Telegram, Twitter
-Monetized Tweets and automated Giveaways on Twitter
-Common Tip commands like: !balance, !deposit, !tip
-Uncommon Tip commands like: !tip @channel, !coingiveaway
-Market/Coin informations with: !price and !convert
-Games included like ( Rock, Paper, Scissors ) - ( Slack only )
+- Integrated Platforms today: Slack, Discord, Telegram, Twitter
+- Monetized Tweets and automated Giveaways on Twitter
+- Common Tip commands like: !balance, !deposit, !tip
+- Uncommon Tip commands like: !tip @channel, !coingiveaway
+- Market/Coin informations with: !price and !convert
+- Games included like ( Rock, Paper, Scissors ) - ( Slack only )
 
 Relevant Link summary:
 
-Wiki: https://wiki.coinkit.de
-Dashboard: https://dashboard.coinkit.de
-Website: https://coinkit.de
+- Wiki: https://wiki.coinkit.de
+- Dashboard: https://dashboard.coinkit.de
+- Website: https://coinkit.de
 
 CoinKit is an on-chain Tipbot/SocialMediaMarketing Tool for Twitter, Discord, Slack and Telegram.
 
