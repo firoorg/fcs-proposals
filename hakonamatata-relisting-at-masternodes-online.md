@@ -3,10 +3,10 @@ layout: fr
 title: Pay for relisting/rebranding at masternodes.online
 author: 'JB'
 date: January 22, 2021
-amount: 100 FIRO
+amount: 100
 milestones:
   - name: Pay for relisting/rebranding at https://masternodes.online/
-    funds: 100 FIRO
+    funds: 100
     done:
     status:
 payouts:
