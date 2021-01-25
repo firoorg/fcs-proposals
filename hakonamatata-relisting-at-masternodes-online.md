@@ -3,10 +3,10 @@ layout: fr
 title: Pay for relisting/rebranding at masternodes.online
 author: 'JB'
 date: January 22, 2021
-amount: 500
+amount: 100 FIRO
 milestones:
   - name: Pay for relisting/rebranding at https://masternodes.online/
-    funds: 500
+    funds: 100 FIRO
     done:
     status:
 payouts:
@@ -16,7 +16,7 @@ payouts:
 
 After rebranding to FIRO some community members noticed that a popular site for listing all the different masternode coins had de-listed ZCoin, now called Firo.
 
-According to the coin update policy at [masternode.online](https://masternodes.online/). Rebrand requires a fee of 500 dollars.
+According to the coin update policy at [masternode.online](https://masternodes.online/). Rebrand requires a fee of 500 dollars (In todays price that equals 100 FIRO).
 
 source:
 https://masternodes.online/policies/coin-update-policy/
