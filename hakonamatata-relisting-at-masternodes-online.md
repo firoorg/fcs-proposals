@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Pay for relisting/rebranding at masternodes.online
 author: 'JB'
 date: January 22, 2021
