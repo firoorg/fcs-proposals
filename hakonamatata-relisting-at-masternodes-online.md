@@ -1,15 +1,17 @@
 ---
-layout: wip
+layout: cp
 title: Pay for relisting/rebranding at masternodes.online
 author: 'JB'
 date: January 22, 2021
 amount: 100
 milestones:
   - name: Pay for relisting/rebranding at https://masternodes.online/
-    funds: 100
-    done:
-    status:
+    funds: 125.35
+    done: Feb 16, 2021
+    status: finished
 payouts:
+  - date: Feb 16, 2021
+    amount: 125.35
 ---
 
 **Proposal**
