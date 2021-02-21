@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 title: Lelantus Code Audit
 author: Zcoin Core Team
 date: May 18, 2020
